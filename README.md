@@ -33,3 +33,5 @@ Download `index.html` and open it in any browser.
 - LinkedIn: [linkedin.com/in/rendani-ngobeli-dev](https://www.linkedin.com/in/rendani-ngobeli-dev)
 
 Created for the Umuzi Web Development programme: *4.2 Build your Business – Website*.
+
+Last updated: 26 November 2026
